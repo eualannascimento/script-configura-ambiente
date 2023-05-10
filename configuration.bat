@@ -1,0 +1,2 @@
+PowerShell -NoProfile -Command "&{ start-process powershell -ArgumentList '-NoProfile Set-ExecutionPolicy Unrestricted -Force' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Unrestricted -File src\start_configuration.ps1 -Verb RunAs
