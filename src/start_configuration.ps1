@@ -54,6 +54,7 @@ choco install office365business -y
 choco install obs-studio -y
 choco install k-litecodecpackfull -y
 choco install 7zip.install -y
+choco install powerbi -y
 
 #############################################################################################
 # Uninstall OneDrive
