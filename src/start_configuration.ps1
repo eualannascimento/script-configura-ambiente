@@ -22,11 +22,11 @@ choco install nvm -y
 choco install yarn -y
 choco install python -y
 choco install git -y
+choco install gh -y
 choco install vscode -y
 choco install docker-desktop -y
 choco install insomnia-rest-api-client -y
 choco install androidstudio -y
-choco install visualstudio2019community -y
 
 #############################################################################################
 # Install and select node version
